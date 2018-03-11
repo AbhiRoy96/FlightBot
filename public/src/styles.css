@@ -1,0 +1,57 @@
+body{
+	padding-top: 2%;
+	background-color: #ece5dd;
+}
+
+.main-content{
+	background-color: white;
+	/*height: 100vh;*/
+	width: 100%;
+}
+
+#bot-header{
+	background-color: #075e54;
+	color: white;
+	width: 100%;
+	/*height: 100%;	22vh*/
+	margin: 0;
+	padding-top: 0.5em;
+	padding-bottom: 0.8em;
+}
+
+#bot-logo{
+	text-align: right;
+}
+
+#bot-logo img{
+	width: 70%;
+	padding-top: 0.5em;
+}
+
+#bot-title{
+	color: #dcf8c6;
+}
+
+#bot-name{
+	font-size: 2.8em;
+	font-weight: 100;
+}
+
+#bot-desc{
+	font-size: 1.1em;
+	font-weight: 400;
+	color: #25d366;
+}
+
+
+.mail-history{
+	height: 80vh;
+	width: 100%;
+	background: url("./img/default_background.png") center;
+}
+
+
+.bot-chatbox{
+	width: 100%;
+	height: 10vh;
+}
